@@ -11,7 +11,9 @@ For using this please check follow
     <li>Check out the repository</li>
     <li>Under the home dirctory run the command: <b>php artisan command:finite</b> will give the reusult of the remainder</li>
     <li>Under the home dirctory run the command: <b>php artisan command:finite --details</b> wiil give the result and the process details</li>
-    <li>For unit test Under the home dirctory run the command: <b>./vendor/bin/phpunit ./tests/Unit/FiniteStateAutomataTest.php</b></li>
+    <li>For unit test Under the home dirctory run the command: 
+        <b>./vendor/bin/phpunit ./tests/Unit/FiniteStateAutomataTest.php</b>
+    </li>
 </ol>
 
 ## Files:
