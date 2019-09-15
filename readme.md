@@ -3,5 +3,5 @@ This is a program using finite state automata, The automata below gives you rema
 This program is using Laravel and PHP 7, for the unit test, it using the PHPUNIT.
 
 For using this please check follow
-<ul>PHP 7 or up version</ul>
+<ol>PHP 7 or up version</ol>
 
